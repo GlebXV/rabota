@@ -1,4 +1,3 @@
-глебарик, [19.11.2024 19:33]
 @import url('https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css');
 * {
   box-sizing: border-box;
@@ -177,8 +176,6 @@
   text-align: center;
   display: block;
 }
-
-глебарик, [19.11.2024 19:33]
 .course-section-title{
   font-weight: 600;
   font-size: 70px;
@@ -207,7 +204,8 @@
   padding-bottom: 20px;
   padding-left: 20px;
 }
-.img-card-1 {background-image: url(/img/card-1.png);}
+.img-card-1 {background-image: url(/img2/cmhraww.jpg);}
+.img-card-2 {background-image: url(/img2/ANEMONE.png);}
 .btn-time {
   background-color: #fff;
   border-radius: 5px;
@@ -266,7 +264,7 @@
 }
 .left-block {
   display: flex;
-  align-items: center;
+  align-items: center; 
 }
 .course-number {
   font-style: normal;
